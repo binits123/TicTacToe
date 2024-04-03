@@ -1,2 +1,2 @@
-# TikTakToi
-Tik Tak Toi Project to use of Python Programming Language
+# TicTacToe
+Tik Tak Toe Project to use of Python Programming Language
